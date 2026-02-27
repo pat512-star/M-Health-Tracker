@@ -1,0 +1,5 @@
+{
+  "name": "DYM M-Health Tracker",
+  "description": "A comprehensive marital health tracking application based on the Delight Your Marriage (DYM) model, featuring survey inputs, historical data visualization, and AI-powered insights.",
+  "requestFramePermissions": []
+}
